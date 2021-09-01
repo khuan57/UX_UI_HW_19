@@ -1,0 +1,42 @@
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+}
+.logo {
+    width: 23%;
+    padding: 1%;
+}
+nav {
+    width: 73%;
+    padding: 1%;
+}
+ul {
+    width: 50%;
+    margin-left: auto;
+}
+heroImg {
+    height: 600px;
+    padding: 25px;
+}
+.content {
+    width: 500px;
+    margin: 0 auto;
+}
+footer {
+    background-color: #373738;
+    padding: 1%;
+}
+.flexContainer {
+    display: flex;
+    flex-direction: row;
+}
+.section.div { 
+    width: 33%;
+    padding: 1%;
+}
+.workGrid {
+    display: grid;
+    grid-template-rows: 500px 500px;
+    margin: 0px 5%
+}
